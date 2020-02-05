@@ -70,7 +70,7 @@ Para conseguir executar o resultado feito por mim, é preciso ter o [Node](https
 Com os pré-requisitos concluídos rode os seguintes comandos no terminal:
 
 ```js
-yarn;
+yarn
 ```
 
 ```js
